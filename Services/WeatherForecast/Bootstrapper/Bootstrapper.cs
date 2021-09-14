@@ -2,7 +2,7 @@
 
 namespace Bootstrapper
 {
-    public class Class1
+    public class Bootstrapper
     {
     }
 }
