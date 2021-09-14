@@ -1,0 +1,12 @@
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/bin/Debug/net5.0/Framework.deps.json
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/bin/Debug/net5.0/Framework.dll
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/bin/Debug/net5.0/ref/Framework.dll
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/bin/Debug/net5.0/Framework.pdb
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.csproj.AssemblyReference.cache
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.GeneratedMSBuildEditorConfig.editorconfig
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.AssemblyInfoInputs.cache
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.AssemblyInfo.cs
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.csproj.CoreCompileInputs.cache
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.dll
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/ref/Framework.dll
+/home/meverik/Projects/MyApplicationsServiceFramework/Framework/obj/Debug/net5.0/Framework.pdb
