@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "530f9ac0-2be7-438c-aef1-d6c69f0c4820": {
+      "ProjectGuid": "530f9ac0-2be7-438c-aef1-d6c69f0c4820",
+      "DisplayName": "Framework",
+      "ColorIndex": 0
+    },
+    "7786366b-ef8c-4d25-be76-d3bba06c0ef4": {
+      "ProjectGuid": "7786366b-ef8c-4d25-be76-d3bba06c0ef4",
+      "DisplayName": "Hosting",
+      "ColorIndex": 1
+    },
+    "0d1c621a-491e-4343-96a6-505e4fae336f": {
+      "ProjectGuid": "0d1c621a-491e-4343-96a6-505e4fae336f",
+      "DisplayName": "DomainServices",
+      "ColorIndex": 2
+    },
+    "830e7953-69c2-40e2-acac-b4c179d6b56e": {
+      "ProjectGuid": "830e7953-69c2-40e2-acac-b4c179d6b56e",
+      "DisplayName": "Framework",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
